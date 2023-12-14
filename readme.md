@@ -8,6 +8,7 @@ De-obfuscates Minecraft language files and try to find block/items with the long
 
 - https://www.youtube.com/watch?v=bBAhnThGR4g
 - https://minecraft.wiki/w/Tutorials/Sound_directory#Extracting_Minecraft_music_on_Linux
+- https://minecraft.wiki/w/Language
 
 ## Setup
 
